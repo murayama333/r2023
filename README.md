@@ -10,13 +10,13 @@
     - [Ex - ベクトルの操作](docs/ex/05_ex.md)
     - [Ex - 行列の操作](docs/ex/06_ex.md)
     - [Ex - データフレームの操作](docs/ex/07_ex.md)
-    - [リストの操作](docs/08.md)
     - [配列の操作](docs/09.md)
-    - [文字列関数](docs/10.md)
-    - [apply関数](docs/11.md)
-    - [ファクター型](docs/12.md)
-    - [ファイルの入出力](docs/13.md)
+    - [リストの操作](docs/08.md)
+    - [ファクター型](docs/10.md)
+    - [文字列関数](docs/12.md)
     - [日付の操作](docs/14.md)
+    - [apply関数](docs/11.md)
+    - [ファイルの入出力](docs/13.md)
 * Tidyverse
 
 ---
