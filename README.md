@@ -1,5 +1,4 @@
 # Rと統計
-
 * [Rと統計](docs/01.md)
 * [Rプログラミング](docs/02.md)
     - [RStudio](docs/03.md)
@@ -17,8 +16,20 @@
     - [日付の操作](docs/14.md)
     - [apply関数](docs/11.md)
     - [ファイルの入出力](docs/13.md)
-* Tidyverse
-
+* [Tidyverse](docs/201.md)
+    - [tibble](docs/202.md)
+    - [dplyr](docs/203.md)
+    - [ggplot2](docs/204.md)
+    - [stringr](docs/207.md)
+    - [purrr](docs/209.md)
+    - [forcats](docs/208.md)
+    - [readr](docs/205.md)
+    - [tidyr](docs/206.md)
+    - Ex - Tidyverseの実践1
+    - Ex - Tidyverseの実践2
+    - Ex - Tidyverseの実践3
+    - Ex - Tidyverseの実践4
+    - lubridate
 ---
 
 * 記述統計
