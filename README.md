@@ -20,16 +20,16 @@
     - [tibble](docs/202.md)
     - [dplyr](docs/203.md)
     - [ggplot2](docs/204.md)
-    - [stringr](docs/207.md)
-    - [purrr](docs/209.md)
-    - [forcats](docs/208.md)
-    - [readr](docs/205.md)
-    - [tidyr](docs/206.md)
-    - Ex - Tidyverseの実践1
-    - Ex - Tidyverseの実践2
-    - Ex - Tidyverseの実践3
-    - Ex - Tidyverseの実践4
-    - lubridate
+    - [参考：stringr](docs/207.md)
+    - [参考：purrr](docs/209.md)
+    - [参考：forcats](docs/208.md)
+    - [参考：readr](docs/205.md)
+    - [参考：tidyr](docs/206.md)
+    - [参考：Ex - Tidyverseの実践1](docs/210.md)
+    - [参考：Ex - Tidyverseの実践2](docs/211.md)
+    - [参考：Ex - Tidyverseの実践3](docs/212.md)
+    - [参考：Ex - Tidyverseの実践4](docs/213.md)
+    - [参考：lubridate](docs/214.md)
 ---
 
 * 記述統計
@@ -93,3 +93,8 @@
     - 参考：仮説検定 - 独立性の検定（カイ二乗検定）
     - 参考：仮説検定 - フィッシャーの正確確率検定
 * 回帰分析
+    - [単回帰分析](docs/500.md)
+    - [残差の性質と決定係数](docs/501.md)
+    - [重回帰分析](docs/502.md)
+    - [参考：F検定](docs/503.md)
+    - [参考：回帰係数のt検定](docs/504.md)
