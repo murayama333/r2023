@@ -98,3 +98,9 @@
     - [重回帰分析](docs/502.md)
     - [参考：F検定](docs/503.md)
     - [参考：回帰係数のt検定](docs/504.md)
+
+<!-- 
+
+https://docs.google.com/presentation/d/11ExE9YC1W4x5fbX6AYUfELGtTeIhzZWLWaRzq9ITtXo/edit#slide=id.gf31dcb100e_0_132
+
+-->
